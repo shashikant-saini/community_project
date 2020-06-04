@@ -52,8 +52,8 @@ class _DrawerPageState extends State<DrawerPage> with TickerProviderStateMixin {
   Future<UpiResponse> initiateTransaction(String app) async {
     return _upiIndia.startTransaction(
       app: app,
-      receiverUpiId: 'rockingrahulsaini-2@okicici',
-      receiverName: 'Shashikant Saini',
+      receiverUpiId: '<Add Upi Id>',
+      receiverName: '<Add Name>',
       transactionRefId: 'TestingUpiIndiaPlugin',
       transactionNote: 'Not actual. Just an example.',
       amount: 1.00,
