@@ -1,6 +1,6 @@
 # communityproject
 
-A new Flutter application.
+A Flutter Application for Bill payments for Specific Community. Support for UPI Paymentes India.
 
 ## Getting Started
 
